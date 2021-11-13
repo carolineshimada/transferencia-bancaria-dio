@@ -2,4 +2,4 @@
 # transferencia-bancaria-básica
 
 Bootcamp everis New Talents #2 .NET
-Neste desafio a proposta era cria um gerenciador de espaço naves do Star Wars modelando um banco de dados em SQL Server. A ideia é fazer os scripts de criação das tabelas que compõem a estrutura desse banco de dados. 
+A propostA aqui foi criar um algoritmo simples de transferência bancária para exercer o pensamento orientado a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto aprendi: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar enums.
